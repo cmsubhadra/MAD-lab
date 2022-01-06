@@ -1,4 +1,4 @@
-package com.example.ex6;
+package com.example.ex7;
 
 import androidx.appcompat.app.AppCompatActivity;
 
